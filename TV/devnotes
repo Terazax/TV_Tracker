@@ -1,0 +1,38 @@
+
+
+
+
+TV Tracker App Notes
+
+
+To Do
+
+
+In watched episodes - add S#E# before episode title
+
+In watched episodes - add date watched
+
+Make show list editable
+
+Saved show list - needs switch controller thing or some option implemented to view for added (bydate, alphabetical, lastwatched, etc)
+
+Add error message in showSearch if internet connection is offline
+
+
+
+__________
+
+DONE - Don't let users add show that already exists (popup notification)
+
+FIXED - in watched episodes - display in reverse order (add them in reverse order, since they are displayed with most recently added in the last array position)
+
+FIXED - if you save a show then start marking episodes, you have to go all the way back to the main screen and "saved shows" to access the saved episode list - combined savedshowmenutableview into showmenutableview
+
+
+
+
+
+
+
+
+
